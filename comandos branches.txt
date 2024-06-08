@@ -1,0 +1,4 @@
+git checkout [nome da branch]: mudar a branch atual para outra branch
+git branch [nome]: criar nova branch
+git branch -D [nome da branch] : apagar a branch
+git merge [branch1] [branch2]: mesclar branches
